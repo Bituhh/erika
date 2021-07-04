@@ -27,3 +27,71 @@ for example:
 *Purple
 *Red-purple
 https://www.bbc.co.uk/bitesize/guides/z9bbk2p/revision/6
+
+PSYCHOLOGICAL
+
+Thousants years ago the Egyptians stude the psychology of the color how they affect on the mood and use to accomplish holistic benefits.
+https://ethos3.com/2014/06/the-history-of-color-psychology/#:~:text=No%20one%20can%20dispute%20that,them%20to%20accomplish%20holistic%20benefits.
+
+RED 
+Red represents sexuality,warm,vibrant,energizing,powerful,
+impulsive,charming,charismatic,radiante,
+
+Can increase the hear and the respiration rates,can boost the self esteem
+the negative about red is revenge,anger,danger,violence.
+https://www.empower-yourself-with-color-psychology.com/color-red.html#:~:text=The%20Color%20Red,their%20red%20car
+
+
+BLUE
+---- Blue color can lower our heart rates, blood  pressure, ----body temperature,also can effect on the pituitary gland ----and slow our breathinghttps://www.sensationalcolor.com/meaning-of-blue/
+
+
+psycology perspective,blue are reponsible, reliable, security,confidente,honesty,loyalty,sincere,reserve,quiet,
+idealistic,self-expression,trust,orderly,
+
+
+Negative include: being rigid, deceitful, spiteful,depressed,sad,passive, self-righteous, superstitious,emotionally unstable,conservative, old-fashioned, predictable,weak, unforgiving, aloof, ,manipulation, unfaithfulness, untrustworthy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
