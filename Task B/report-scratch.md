@@ -24,7 +24,7 @@ pink. Pink is a tint created by adding white to red.
 
 Tint refers to any hue or mixture of pure colors to which white is added. Pastel colors are generally tinted colors.
 Tinted color remains the same color, but it is paler than the original. When mixing a tint, always begin with white
-paint and gradually mix in small amounts of color until you’ve achieved the tint you want.
+paint and gradually mix in small amounts of color until you’ve achieved the tint you wlant.
 
 ## Shades
 
@@ -41,13 +41,13 @@ sense, black and white are not colors, they're shades.
 The primary colours are Red, Blue and Yellow they can't be created by mixing any other colours, they are considered the
 root of every other colour.
 
-a color formed by mixing two primary colors in equal or equivalent quantities.
-
 Mix equal amounts of red, blue and yellow to get black.
 
 # Secondary
 
 The secondary colors are Orange, Purple and Green. ...
+
+a color formed by mixing two primary colors in equal or equivalent quantities.
 
 # Tertiary
 
