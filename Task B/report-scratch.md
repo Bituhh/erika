@@ -1,9 +1,4 @@
-# Colours
-
-No one can dispute that in the late 1660's, Sir Isaac Newton discovered how the color spectrum is organized and
-composed.
-
-## Hue
+# Hue
 
 Many people use terms like “hue” and “color” or “tint” and “shade” interchangeably, but the terms have distinctly
 different meanings. Color is a very general term used to describe every hue, tint, tone, or shade we can see. Hue refers
@@ -13,7 +8,7 @@ Hue refers to the origin of the colors we can see. Primary and Secondary colors 
 Green) are considered hues; however, tertiary colors (mixed colors where neither color is dominant) would also be
 considered hues
 
-## Primary
+# Primary
 
 The primary colours are Red, Blue and Yellow they can't be created by mixing any other colours, they are considered the
 root of every other colour.
@@ -22,11 +17,11 @@ a color formed by mixing two primary colors in equal or equivalent quantities.
 
 Mix equal amounts of red, blue and yellow to get black.
 
-## Secondary
+# Secondary
 
 The secondary colors are Orange, Purple and Green. ...
 
-## Tertiary
+# Tertiary
 
 Tertiary colors are the six 'in-between' colors.15 Feb 2017 Six Tertiary Colors (Ts): Red-Orange, Yellow-Orange,
 Yellow-Green, Blue-Green, Blue-Violet, Red-Violet, which are formed by mixing a primary with a secondary.
