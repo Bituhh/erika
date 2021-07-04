@@ -1,30 +1,21 @@
-# Hue
+# Colours
 
 Many people use terms like “hue” and “color” or “tint” and “shade” interchangeably, but the terms have distinctly
-different meanings. Color is a very general term used to describe every hue, tint, tone, or shade we can see. Hue refers
-to the dominant color family.
+different meanings. Color is a very general term used to describe every hue, tint, tone, or shade we can see.
+
+## Hue
+
+Hue refers to the dominant color family.
 
 Hue refers to the origin of the colors we can see. Primary and Secondary colors (Yellow, Orange, Red, Violet, Blue, and
 Green) are considered hues; however, tertiary colors (mixed colors where neither color is dominant) would also be
 considered hues
 
-# Primary
+## Tone
 
-The primary colours are Red, Blue and Yellow they can't be created by mixing any other colours, they are considered the
-root of every other colour.
-
-a color formed by mixing two primary colors in equal or equivalent quantities.
-
-Mix equal amounts of red, blue and yellow to get black.
-
-# Secondary
-
-The secondary colors are Orange, Purple and Green. ...
-
-# Tertiary
-
-Tertiary colors are the six 'in-between' colors.15 Feb 2017 Six Tertiary Colors (Ts): Red-Orange, Yellow-Orange,
-Yellow-Green, Blue-Green, Blue-Violet, Red-Violet, which are formed by mixing a primary with a secondary.
+Tone is a hue or mixture of pure colors to which only pure gray is added (equal amounts of black and white). Adding gray
+to a color will make the intensity much duller. Beware of mixing too much gray into a hue as it can become over-dulled
+and virtually impossible to restore the brilliance.
 
 ## Tints
 
@@ -45,11 +36,23 @@ color, but the hue remains the same. When mixing a shade, begin with the color i
 And many do consider black to be a color, because you combine other pigments to create it on paper. But in a technical
 sense, black and white are not colors, they're shades.
 
-## Tone
+# Primary
 
-Tone is a hue or mixture of pure colors to which only pure gray is added (equal amounts of black and white). Adding gray
-to a color will make the intensity much duller. Beware of mixing too much gray into a hue as it can become over-dulled
-and virtually impossible to restore the brilliance.
+The primary colours are Red, Blue and Yellow they can't be created by mixing any other colours, they are considered the
+root of every other colour.
+
+a color formed by mixing two primary colors in equal or equivalent quantities.
+
+Mix equal amounts of red, blue and yellow to get black.
+
+# Secondary
+
+The secondary colors are Orange, Purple and Green. ...
+
+# Tertiary
+
+Tertiary colors are the six 'in-between' colors.15 Feb 2017 Six Tertiary Colors (Ts): Red-Orange, Yellow-Orange,
+Yellow-Green, Blue-Green, Blue-Violet, Red-Violet, which are formed by mixing a primary with a secondary.
 
 # Colour Schemes / Colour Harmonies
 
