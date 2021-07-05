@@ -47,11 +47,7 @@ Woodblock-printed wallpaper designs was used throughout those times and are stil
 curtains, furniture and upholstery all over the
 world.  https://mymodernmet.com/arts-and-crafts-movement-william-morris/2/
 
-When they went to the Great Exhibition on 1851, they had been criticized about the qualities of the material, saying
-that it was excessively ornate, artificial and ignorant. https://en.wikipedia.org/wiki/Arts_and_Crafts_movement
 
-Organizations, schools and art & crafts guilds support fuel the
-movement.https://exhibitions.lib.umd.edu/williammorris/morris-influence/arts-and-crafts-movement
 
 William Morries work was internationally reproduce and also inspired the North-America Arts & Crafts Movement, Art
 Nouveau in France and Mingei in Japan. So contemporary art still get inspirant by Wiliam Morries way, like David Mabb
