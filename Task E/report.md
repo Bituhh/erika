@@ -2,32 +2,39 @@
 
 We are going to talk about art and craft era,explain about how has initiated this Era and where have start.
 
-# Strawberry Thief
+## Strawberry Thief
 
-Created during Art and Crafts by William Morris, its is one of Morris most popular repeating designs. It was creates by
-the inspiration of a thrushes that he found stealing strawberries under his fruit nets at his countryside home,
-Kelmscott Manor, is Oxfordshire (1)[https://www.britannica.com/biography/William-Morris-British-artist-and-author].
-Although he couldn't draw birds, all his designs with birds are draw by his friend Philip Webb
-(2)[https://mymodernmet.com/arts-and-crafts-movement-william-morris/2/].
+Created during the Art and Crafts Era by William Morris. It is one of Morris most popular repeating designs. It was
+creates by the inspiration of a thrushes that he found stealing strawberries under his fruit nets at his countryside
+home, Kelmscott Manor, is Oxfordshire [1](https://www.britannica.com/biography/William-Morris-British-artist-and-author)
+. Although he couldn't draw birds, all his designs with birds are draw by his friend Philip Webb
+[2](https://mymodernmet.com/arts-and-crafts-movement-william-morris/2/).
 
 This fabric uses a complex technique that is called Indigo-discharge. It's a formula for creating dyes out of vegetable,
 he created the colours "blue from indigo and woad; red from the insects kermis and cochineal and the plant madder;
 yellow from the weld, poplar, osier, birch, broom and quercitron; brown from walnut tree roots."
-(3)[https://www.laurasbeau.co.uk/news-and-blog/william-morris/william-morris-the-indigo-discharge-dye-technique/]. This
+[3](https://www.laurasbeau.co.uk/news-and-blog/william-morris/william-morris-the-indigo-discharge-dye-technique/). This
 was a long process it took three days to complete entirely and was the most expensive fabric sold by Morris company,
-Morris & Co, which is still active to date and is now part of Sanderson Design Group (
-4)[https://sandersondesign.group/our-brands/morris-co/]. Despite its price it became a very successful pattern
+Morris & Co, which is still active to date and is now part of Sanderson Design Group
+[4](https://sandersondesign.group/our-brands/morris-co/). Despite its price it became a very successful pattern
 commercially. The process was soo laborious that William Morris attempted this method 1875 and was only successful later
-in 1881, he then stated to his daughter "I was a great deal at Merton last week... anxiously superintending the first
-printing of the Strawberry thief, which I think we shall manage this time."
-(5)[https://collections.vam.ac.uk/item/O78889/strawberry-thief-furnishing-fabric-morris-william/].
+in 1881, he then stated to his daughter in 1883 "I was a great deal at Merton last week... anxiously superintending the
+first printing of the Strawberry thief, which I think we shall manage this time."
+[5](https://collections.vam.ac.uk/item/O78889/strawberry-thief-furnishing-fabric-morris-william/).
 
 This fabric is rich in animal and flower patterns whilst bluebell and Marigold use a stencilled design in variety of
 muted colours. With its symmetry and intricate tapestry-style designs it has a timeless look.
-(6)[https://www.housedecorinteriors.co.uk/fabrics/mor220313_strawberry_thief_fabric_indigo_mineral_william_morris_and_co_archive_prints_collection/#.YONtJ0lKiDI]
-. 
+[6](https://www.housedecorinteriors.co.uk/fabrics/mor220313_strawberry_thief_fabric_indigo_mineral_william_morris_and_co_archive_prints_collection/#.YONtJ0lKiDI)
+.
 
+The Morris & Co. generally used wool for most of its designs, despite this cotton was chosen for this design, intended
+to be used for interior decoration, such as, curtains, drapes and loose covers on furniture
+[7](https://en.wikipedia.org/wiki/Strawberry_Thief_(William_Morris)).
 
+Available colours are: Butter Cream, Forest, White, Indigo, Rooster Comb Red, Victorian Blue, Jet, Slate Gray, Wine, Sky
+and Dragons Blood. [9](https://williammorristile.com/textiles/strawberry_thief_background_colors.html).
+
+![Strawberry Thief](../images/strawberry_thief_colorways.jpg)
 
 ## Description
 
