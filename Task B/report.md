@@ -62,6 +62,9 @@ A shade is a mix of dominant colours with black, first add the dominant colour t
 (6)[https://www.beachpainting.com/blog/color-hue-tint-tone-and-shade/]. Black and white are not technically colours,
 they are simple shades and tints (7)[https://www.adobe.com/uk/creativecloud/design/discover/is-black-a-color.html].
 
+
+
+
 # Conclusion
 
 It has become a very import part in the world. Giving different means to things, depending on how its used.
